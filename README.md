@@ -61,6 +61,8 @@ flutter run
 ## Folder Structure
 This project follows Clean Architecture, organizing code into different layers for maintainability and scalability.
 
+```
+
 ├── data
 │   ├── datasources
 │   │   └── firebase_datasource.dart
@@ -91,7 +93,7 @@ This project follows Clean Architecture, organizing code into different layers f
     └── widgets
         ├── car_card.dart
         └── more_card.dart
-
+```
 
 ## Usage
 * Launch the app: Run the app on your emulator or device using flutter run.
