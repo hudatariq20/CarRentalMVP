@@ -19,14 +19,14 @@ edit the screenshots here of the 3 screens.
 Home page, 
 
 ## 🛠️ Tech Stack
-**Flutter**: Cross-platform mobile app development framework.
-**Firebase**: Real-time database to store and manage car details.
-**BLoC**: Business Logic Component (BLoC) pattern for state management.
-**OpenStreetMap (OSM)**: For displaying maps, car locations, and pick-up/delivery points.
-**flutter_bloc**: Package for implementing the BLoC pattern in Flutter.
-**flutter_map**: Package for integrating OpenStreetMap into the app.
-**equatable**: For value comparison in BLoC events and states.
-**get_it**: For dependency injection.
+* **Flutter**: Cross-platform mobile app development framework.
+* **Firebase**: Real-time database to store and manage car details.
+* **BLoC**: Business Logic Component (BLoC) pattern for state management.
+* **OpenStreetMap (OSM)**: For displaying maps, car locations, and pick-up/delivery points.
+* **flutter_bloc**: Package for implementing the BLoC pattern in Flutter.
+* **flutter_map**: Package for integrating OpenStreetMap into the app.
+* **equatable**: For value comparison in BLoC events and states.
+* **get_it**: For dependency injection.
 
 
 ### Getting Started
