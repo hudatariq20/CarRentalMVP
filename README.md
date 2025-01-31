@@ -15,8 +15,27 @@ The app uses **BLoC** for handling state and business logic separately from the 
 * Pick-Up and Delivery Functionality: Interactive map to select locations for pick-up and delivery.
 
 ## 🎨 App Screens
-edit the screenshots here of the 3 screens.
-Home page, 
+<table>
+  <tr>
+    <td>Splash Screen</td>
+     <td>Vehicle Information Screen</td>
+     <td>Car Listing Screen</td>
+   
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4878ba20-a5f2-4efe-b2fa-9847ae1e4e06" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/da756187-ae52-4309-9479-d6dc3e0b93f4" width=250 height=500></td>
+    <td><img src="https://github.com/user-attachments/assets/3da00e93-c636-4022-8aed-da4593d0d101" width=250 height=500></td>
+  </tr>
+
+   <tr>
+    <td>Map Screen</td>
+   
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/78b3ad94-fb8c-487d-ad87-2cc6eb36be09" width=250 height=500></td>
+  </tr>
+ </table>
 
 ## 🛠️ Tech Stack
 * **Flutter**: Cross-platform mobile app development framework.
